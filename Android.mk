@@ -258,3 +258,5 @@ $(foreach f, $(notdir $(RADIO_FILES)), \
 $(call add-radio-file,../../../device/xiaomi/santoni/radio/filesmap)
 
 endif
+
+endif
